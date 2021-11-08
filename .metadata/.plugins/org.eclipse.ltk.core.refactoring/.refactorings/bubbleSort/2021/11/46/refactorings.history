@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;bubbleSort.OrdenacaoVetor&apos; to &apos;OrdenacaoVetorApplication&apos;&#x0D;&#x0A;- Original project: &apos;bubbleSort&apos;&#x0D;&#x0A;- Original element: &apos;bubbleSort.OrdenacaoVetor&apos;&#x0D;&#x0A;- Renamed element: &apos;bubbleSort.OrdenacaoVetorApplication&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;OrdenacaoVetor&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;bubbleSort{OrdenacaoVetor.java[OrdenacaoVetor" matchStrategy="1" name="OrdenacaoVetorApplication" qualified="false" references="true" similarDeclarations="false" stamp="1636371579643" textual="false" version="1.0"/>
+</session>
